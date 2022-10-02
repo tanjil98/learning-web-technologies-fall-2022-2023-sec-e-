@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<information>
+  <CD>
+    <SL.NO>23</SL.NO>
+    <NAME>John Carter</NAME>
+    <ADMISSION-DATE>25/12/2015</ADMISSION-DATE>
+  </CD>
+  <CD>
+    <SL.NO>29</SL.NO>
+    <NAME>Bob Marshal</NAME>
+    <ADMISSION-DATE>13/01/1999</ADMISSION-DATE>
+  </CD>
+  <CD>
+    <SL.NO>35</SL.NO>
+    <NAME>Clark Kent</NAME>
+    <ADMISSION-DATE>17/06/2005</ADMISSION-DATE>
+  </CD>
+</information>
